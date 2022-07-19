@@ -1,0 +1,8 @@
+body {
+	height: 100vh;
+	font-family: didot;
+    background-image: url(/media/animation/Nothing.gif);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}

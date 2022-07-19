@@ -1,0 +1,6 @@
+body {
+		height: 100vh; background-image: url(/media/animation/homepage_background.gif); background-size: 95% 95%; background-position: center center; animation: shrink 2s infinite alternate; } @keyframes shrink { 0% { background-size: 110% 110%; } 100% { background-size: 100% 100%; } }
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
